@@ -93,9 +93,10 @@ Meow 是一个端到端、元数据驱动的**学术综述大纲自动生成**�
 
 ```bibtex
 @article{ma2025meow,
-  title   = {MEOW: End-to-End Outline Writing for Automatic Academic Survey},
-  author  = {Ma, Zhaoyu and Shan, Yuan and Zhao, Jiahao and Xu, Nan and Wang, Lei},
-  journal = {arXiv preprint arXiv:2509.19370},
-  year    = {2025}
+  author={Ma, Zhaoyu and Shan, Yuan and Zhao, Jiahao and Xu, Nan and Wang, Lei},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Meow: End-to-End Outline Writing for Automatic Academic Survey}, 
+  year={2026},
+  pages={20561-20565},
 }
 ```
